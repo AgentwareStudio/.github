@@ -12,5 +12,5 @@ Agentware = agentic software: goal-driven, memory-enabled, tool-using, governed 
 - Small, runnable demos
 
 ## Follow
-- X: https://x.com/Agentware190058
+- X: https://x.com/AgentwareStudio
 
