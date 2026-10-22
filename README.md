@@ -1,16 +1,7 @@
-# Agentware Studio
+# .github
 
-Agentware = agentic software: goal-driven, memory-enabled, tool-using, governed systems that act on your behalf.
+Organization profile for [Agentware Studio](https://github.com/AgentwareStudio).
 
-- 🌐 Website: https://agentware.studio
-- 🧰 Agentware Kit: templates & checklists (coming)
-- 🧪 Demos: reference implementations (coming)
-
-## What you'll find here
-- Specs & templates for building agentic software
-- Governance & eval playbooks
-- Small, runnable demos
-
-## Follow
-- X: https://x.com/AgentwareStudio
-
+- `profile/README.md` is what GitHub shows on the organization page.
+- `profile/assets/` holds the banner images (dark and light versions, 3200 × 1200 px).
+  To change the banner, edit `profile/assets/banner.html` and render it again at 2× (1600 × 600 viewport).
